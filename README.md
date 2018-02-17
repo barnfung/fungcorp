@@ -12,7 +12,7 @@ Check if someone else is on the server:
 ```  
 ## 2.0 Instructions for fast.ai ##
 
-Clone the [fastai repo](https://github.com/fastai/fastai)
+Clone the [fastai repo](https://github.com/fastai/fastai):
 ```
 >> git clone https://github.com/fastai/fastai
 ```

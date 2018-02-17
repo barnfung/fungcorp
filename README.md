@@ -23,7 +23,7 @@ First, find the local ipv4 address for the machine:
 ```
 >> ifconfig
 ```
-Then activate the notebookserver at a convenient port:
+Then activate the notebook server at a convenient port:
 ```
 >> cd *directory to fastai local repo*/fast_ai/fastai/courses/dl1
 >> jupyter notebook --ip *address here* --port *4 digit port*

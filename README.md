@@ -4,7 +4,7 @@ Make sure server is on before doing the below.
 
 Check if someone else is on the server:
 ```
-who
+>> who
 ```
 ## 1.0 Instructions to Access Machine Learning Server ##
 ```

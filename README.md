@@ -12,9 +12,14 @@ Check if someone else is on the server:
 ```  
 ## 2.0 Instructions for fast.ai ##
 
+Clone the [fastai repo](https://github.com/fastai/fastai)
+```
+>> git clone https://github.com/fastai/fastai
+```
+
 Activate the fastai anaconda environment:
 ```
->> cd */directory to fastai local repo*/fastai/
+>> cd ~/directory to fastai local repo/fastai/
 >> source activate fastai 
 ``` 
 Run the jupyter notebook server for DL1:
@@ -25,7 +30,7 @@ First, find the local ipv4 address for the machine:
 ```
 Then activate the notebook server at a convenient port:
 ```
->> cd *directory to fastai local repo*/fast_ai/fastai/courses/dl1
+>> cd ~/directory to fastai local repo/fast_ai/fastai/courses/dl1
 >> jupyter notebook --ip *address here* --port *4 digit port*
 ```
 The terminal should output some instruction like this:

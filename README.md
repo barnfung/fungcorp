@@ -1,5 +1,5 @@
 # fungcorps
----
+
 Make sure server is on before doing the below.
 
 Check if someone else is on the server:

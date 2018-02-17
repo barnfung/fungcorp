@@ -6,6 +6,17 @@ Check if someone else is on the server:
 ```
 >> who
 ```
+
+Check current resource usage:
+```
+>> htop
+```
+
+Check GPU usage (with 1 sec update rate):
+```
+>> nvidia-smi -l 1
+```
+
 ## 1.0 Instructions to Access Machine Learning Server ##
 ```
 >> ssh *username*@*server.net* (ask barn for your login and pw)
